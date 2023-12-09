@@ -2,19 +2,19 @@
 
 Raspberry Pi3 barebone is a based on Broadcom Quad Core processor which is of ARM V7 architecture. With this barebone using Debian Linux (Raspbian) is possible to build a perfect Thinclient (cheap and reliable).
 
-![alt tag](https://raw.githubusercontent.com/jalopezsuarez/thinclient/master/control-terms/assets/control-acceso.png)
+![alt tag](https://raw.githubusercontent.com/jalopezsuarez/raspberryterminal19/master/control-terms/assets/control-acceso.png)
 
-![alt tag](https://raw.githubusercontent.com/jalopezsuarez/thinclient/master/control-terms/assets/control-remoto.png)
+![alt tag](https://raw.githubusercontent.com/jalopezsuarez/raspberryterminal19/master/control-terms/assets/control-remoto.png)
 
-![alt tag](https://raw.githubusercontent.com/jalopezsuarez/thinclient/master/control-terms/assets/control-network.png)
+![alt tag](https://raw.githubusercontent.com/jalopezsuarez/raspberryterminal19/master/control-terms/assets/control-network.png)
 
-![alt tag](https://raw.githubusercontent.com/jalopezsuarez/thinclient/master/control-terms/assets/control-wifi.png)
+![alt tag](https://raw.githubusercontent.com/jalopezsuarez/raspberryterminal19/master/control-terms/assets/control-wifi.png)
 
-![alt tag](https://raw.githubusercontent.com/jalopezsuarez/thinclient/master/control-terms/assets/control-extensions.png)
+![alt tag](https://raw.githubusercontent.com/jalopezsuarez/raspberryterminal19/master/control-terms/assets/control-extensions.png)
 
-![alt tag](https://raw.githubusercontent.com/jalopezsuarez/thinclient/master/control-terms/assets/control-general.png)
+![alt tag](https://raw.githubusercontent.com/jalopezsuarez/raspberryterminal19/master/control-terms/assets/control-general.png)
 
-![alt tag](https://raw.githubusercontent.com/jalopezsuarez/thinclient/master/control-terms/assets/control-reboot.png)
+![alt tag](https://raw.githubusercontent.com/jalopezsuarez/raspberryterminal19/master/control-terms/assets/control-reboot.png)
 
 ### Build SDCard image system using MacOS.
 ```
